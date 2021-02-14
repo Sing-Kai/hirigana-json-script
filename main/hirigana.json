@@ -1,0 +1,290 @@
+[
+ {
+  "Id": 1,
+  "Character": "あ"
+ },
+ {
+  "Id": 2,
+  "Character": "い"
+ },
+ {
+  "Id": 3,
+  "Character": "う"
+ },
+ {
+  "Id": 4,
+  "Character": "え"
+ },
+ {
+  "Id": 5,
+  "Character": "お"
+ },
+ {
+  "Id": 6,
+  "Character": "か"
+ },
+ {
+  "Id": 7,
+  "Character": "き"
+ },
+ {
+  "Id": 8,
+  "Character": "く"
+ },
+ {
+  "Id": 9,
+  "Character": "け"
+ },
+ {
+  "Id": 10,
+  "Character": "こ"
+ },
+ {
+  "Id": 11,
+  "Character": "が"
+ },
+ {
+  "Id": 12,
+  "Character": "ぎ"
+ },
+ {
+  "Id": 13,
+  "Character": "ぐ"
+ },
+ {
+  "Id": 14,
+  "Character": "げ"
+ },
+ {
+  "Id": 15,
+  "Character": "ご"
+ },
+ {
+  "Id": 16,
+  "Character": "さ"
+ },
+ {
+  "Id": 17,
+  "Character": "し"
+ },
+ {
+  "Id": 18,
+  "Character": "す"
+ },
+ {
+  "Id": 19,
+  "Character": "せ"
+ },
+ {
+  "Id": 20,
+  "Character": "そ"
+ },
+ {
+  "Id": 21,
+  "Character": "ざ"
+ },
+ {
+  "Id": 22,
+  "Character": "じ"
+ },
+ {
+  "Id": 23,
+  "Character": "ず"
+ },
+ {
+  "Id": 24,
+  "Character": "ぜ"
+ },
+ {
+  "Id": 25,
+  "Character": "ぞ"
+ },
+ {
+  "Id": 26,
+  "Character": "た"
+ },
+ {
+  "Id": 27,
+  "Character": "ち"
+ },
+ {
+  "Id": 28,
+  "Character": "つ"
+ },
+ {
+  "Id": 29,
+  "Character": "て"
+ },
+ {
+  "Id": 30,
+  "Character": "と"
+ },
+ {
+  "Id": 31,
+  "Character": "だ"
+ },
+ {
+  "Id": 32,
+  "Character": "ぢ"
+ },
+ {
+  "Id": 33,
+  "Character": "づ"
+ },
+ {
+  "Id": 34,
+  "Character": "で"
+ },
+ {
+  "Id": 35,
+  "Character": "ど"
+ },
+ {
+  "Id": 36,
+  "Character": "な"
+ },
+ {
+  "Id": 37,
+  "Character": "に"
+ },
+ {
+  "Id": 38,
+  "Character": "ぬ"
+ },
+ {
+  "Id": 39,
+  "Character": "ね"
+ },
+ {
+  "Id": 40,
+  "Character": "の"
+ },
+ {
+  "Id": 41,
+  "Character": "は"
+ },
+ {
+  "Id": 42,
+  "Character": "ひ"
+ },
+ {
+  "Id": 43,
+  "Character": "ふ"
+ },
+ {
+  "Id": 44,
+  "Character": "へ"
+ },
+ {
+  "Id": 45,
+  "Character": "ほ"
+ },
+ {
+  "Id": 46,
+  "Character": "ば"
+ },
+ {
+  "Id": 47,
+  "Character": "び"
+ },
+ {
+  "Id": 48,
+  "Character": "ぶ"
+ },
+ {
+  "Id": 49,
+  "Character": "べ"
+ },
+ {
+  "Id": 50,
+  "Character": "ぼ"
+ },
+ {
+  "Id": 51,
+  "Character": "ぱ"
+ },
+ {
+  "Id": 52,
+  "Character": "ぴ"
+ },
+ {
+  "Id": 53,
+  "Character": "ぷ"
+ },
+ {
+  "Id": 54,
+  "Character": "ぺ"
+ },
+ {
+  "Id": 55,
+  "Character": "ぽ"
+ },
+ {
+  "Id": 56,
+  "Character": "ま"
+ },
+ {
+  "Id": 57,
+  "Character": "み"
+ },
+ {
+  "Id": 58,
+  "Character": "む"
+ },
+ {
+  "Id": 59,
+  "Character": "め"
+ },
+ {
+  "Id": 60,
+  "Character": "も"
+ },
+ {
+  "Id": 61,
+  "Character": "や"
+ },
+ {
+  "Id": 62,
+  "Character": "ゆ"
+ },
+ {
+  "Id": 63,
+  "Character": "よ"
+ },
+ {
+  "Id": 64,
+  "Character": "ら"
+ },
+ {
+  "Id": 65,
+  "Character": "り"
+ },
+ {
+  "Id": 66,
+  "Character": "る"
+ },
+ {
+  "Id": 67,
+  "Character": "れ"
+ },
+ {
+  "Id": 68,
+  "Character": "ろ"
+ },
+ {
+  "Id": 69,
+  "Character": "わ"
+ },
+ {
+  "Id": 70,
+  "Character": "ゐ"
+ },
+ {
+  "Id": 71,
+  "Character": "ゑ"
+ },
+ {
+  "Id": 72,
+  "Character": "を"
+ }
+]
